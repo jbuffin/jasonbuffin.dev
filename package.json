@@ -2,9 +2,9 @@
   "private": true,
   "name": "jasonbuffin.dev",
   "description": "Personal developer website for Jason Buffin",
-  "version": "0.2.15",
-  "author": "LekoArts",
-  "license": "0BSD",
+  "version": "1.0.0",
+  "author": "jbuffin",
+  "license": "UNLICENSED",
   "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
     "build": "gatsby build",
